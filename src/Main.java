@@ -19,8 +19,7 @@ public class Main {
   	  
   	  int total;
   	  
-//  	  int [][] ticketTable = new int[15][10];   이 부분 때문에 인자를 제대로 호출받지 못했음 
-//                              => 필드에서 변수를 선언해주었기 때문에 여기서는 선언해줄 필요가 없다.
+
         System.out.println();
   	  
         do {

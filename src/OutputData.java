@@ -10,10 +10,7 @@ public class OutputData {
 
 	void ticketTableLoop() {
 	    
-//		뭔가 이상할 때는 printf문을 찍어서 잘 들어갔는지 확인해준다.
-//	    인자 비교를 위해 문자를 다르게 a,b,c,d로 구분해줌
-//		System.out.printf("c : %d\n", ticketTable[0][0]);
-//		System.out.printf("d : %d\n", ticketTable[0][1]);
+
 		
 	  
 	  
